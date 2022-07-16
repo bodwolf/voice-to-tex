@@ -1,1 +1,1 @@
-# voice-to-tex
+# voice-to-text
